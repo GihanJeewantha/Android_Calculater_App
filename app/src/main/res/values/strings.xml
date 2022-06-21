@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tutorial 2</string>
+    <string name="tv_num1">Number1</string>
+    <string name="tv_num2">Number2</string>
+    <string name="et_n1" />
+    <string name="et_n2" />
+    <string name="et_view1">Enter value</string>
+    <string name="radioButton1">Celcius</string>
+    <string name="radioButton2">Ferenhiete</string>
+    <string name="button1">Calculat</string>
+    <string name="textView2" />
+</resources>
